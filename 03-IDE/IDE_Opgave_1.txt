@@ -1,0 +1,2 @@
+Opg 1: 
+Lige nu er det lidt svært at se hvilke navigationstrick jeg mest kommer til at bruge i et rigtigt projekt. Jeg tænker at ctrl +B som jo gør at jeg kan hoppe til en metode, kan vise sig at være enormt nyttigt is større projekter. Og kan også forestille mig at ctrl + alt + B der hjælper med at finde klasser også kan være nyttigt. Alt + left/right brugte jeg hele tiden, så den er jo allerede i brug. Og shift + shift der virker som en mini google for intellij var også virkeligt effektiv. Den kommer jeg til at bruge en del.   
