@@ -1,6 +1,5 @@
 # Git og GitHub
 
-Afleveringen er godkendt af underviseren.
 
 ## Besvarelser
 
