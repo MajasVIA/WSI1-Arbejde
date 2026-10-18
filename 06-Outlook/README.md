@@ -29,7 +29,13 @@ Jeg har ikke forsøgt at rette koden, som opgaven foreskriver. Jeg vedhæfter et
 Venlig hilsen  
 Maja Hovedskou
 
-Vedhæftet billede i den oprindelige besked: `Anna.jpg`.
+![Screenshot af input og fejlbeskeden i Main.java](Billeder/Anna.jpg)
+
+### Dokumentation fra Itslearning
+
+![Itslearning-besked, første del](Billeder/Itslearning-besked-1.png)
+
+![Itslearning-besked, anden del og vedhæftning](Billeder/Itslearning-besked-2.png)
 
 ## På Outlook
 
@@ -50,3 +56,9 @@ Det ønskede resultat er en klar prioritering af, hvad der skal justeres i proje
 
 Venlig hilsen  
 Maja Hovedskou
+
+### Dokumentation fra Outlook
+
+![Mødeindkaldelse med formål og agenda](Billeder/Outlook-moedeindkaldelse.png)
+
+![Teams-mødet i Outlook-kalenderen](Billeder/Outlook-kalender.png)
