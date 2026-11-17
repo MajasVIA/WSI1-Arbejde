@@ -12,8 +12,11 @@ public class Main
     System.out.println("Nyt udlånsforsøg: " + copy.borrow());
     System.out.println("Status efter afvist udlån: " + copy.isBorrowed());
 
-    copy.returnBook();
+    System.out.println("Aflevering: " + copy.returnBook());
     System.out.println("Status efter aflevering: " + copy.isBorrowed());
+
+    System.out.println("Nyt afleveringsforsøg: " + copy.returnBook());
+    System.out.println("Status efter nyt afleveringsforsøg: " + copy.isBorrowed());
 
     System.out.println("Udlån efter aflevering: " + copy.borrow());
     System.out.println("Status efter nyt udlån: " + copy.isBorrowed());

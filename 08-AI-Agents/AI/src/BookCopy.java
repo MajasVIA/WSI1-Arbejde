@@ -20,9 +20,15 @@ public class BookCopy
     return true;
   }
 
-  public void returnBook()
+  public boolean returnBook()
   {
-    borrowed = false;
+    if (borrowed)
+    {
+      borrowed = false;
+      return true;
+    }
+
+    return false;
   }
 
   public boolean isBorrowed()
